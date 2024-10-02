@@ -7,6 +7,7 @@ I love turning complex data into actionable insights and am excited to explore t
 - 🎓 Bachelor’s in Biomedical Engineering from Tel Aviv University. 
 - 💻 Skilled in Python, R, SQL, Pandas, NumPy, Scikit-learn, Matlab, and Matplotlib. 
 - 🚀 Interested in applying machine learning in healthcare and tech
+- 🌱 With a passion for Artificial Intelligence and always fascinated by the possibilities of AI and machine learning. 
 
 Let's connect and collaborate on exciting data challenges!
 
